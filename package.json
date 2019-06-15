@@ -1,0 +1,23 @@
+{
+  "name": "service-worker-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiwuofficial/service-worker-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiwuofficial/service-worker-sample/issues"
+  },
+  "homepage": "https://github.com/tiwuofficial/service-worker-sample#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
